@@ -1,4 +1,4 @@
-Benz Canlas Javier, Now
+
 <!-- HEADER -->
 <p align="center">
   <img src="https://media.giphy.com/media/X40zUKTGZgp7q/giphy.gif" width="700" alt="Power Rangers GIF" />
